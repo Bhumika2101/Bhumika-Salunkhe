@@ -5,8 +5,8 @@
 
     "preloader": {
         "enabled": true,
-        "title": "React <b>Portfolio</b>",
-        "subtitle": "by <b>Bhumika Salunkhe</b>"
+        "title": "<b>Portfolio</b>",
+        "subtitle": "<b>Bhumika Salunkhe</b>"
     },
 
     "profile": {

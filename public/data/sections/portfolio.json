@@ -26,7 +26,7 @@
           {
             "id": "apps",
             "locales": {
-              "en": { "singular": "App", "plural": "Apps" },
+              "en": { "singular": "Web-App", "plural": "Web-Apps" },
               "mr": { "singular": "अनुप्रयोग", "plural": "अनुप्रयोग" },
               "hi": { "singular": "ऐप", "plural": "ऐप्स" }
             }
@@ -41,6 +41,108 @@
           }
         ],
         "items": [
+
+                    {
+            "categoryId": "apps",
+            "icon": {
+              "img": "images/pictures/medvault-logo.png",
+              "fa": "",
+              "faColors": { "bg": null, "fill": null }
+            },
+            "links": [
+              { "faIcon": "fa-brands fa-github", "href": "https://github.com/Bhumika2101/MedVault" }
+            ],
+            "media": {
+              "youtubeVideo": "",
+              "screenshots": { "aspectRatio": null, "images": [] }
+            },
+            "locales": {
+              "en": {
+                "title": "MedVault",
+                "text": "MedVault is a comprehensive <b>Electronic Health Record (EHR)</b> system designed to help patients securely store, manage, and share their medical records with healthcare professionals. The platform includes appointment booking, consultation management, notifications, and medical document storage, improving communication between patients and doctors. The system was built with a focus on security, ease of use, and efficient data access, and includes complete documentation and testing.",
+                "tags": ["Java","Spring","JDBC","EHR", "HealthTech"]
+              },
+              "mr": {
+                "title": "MedVault",
+                "text": "MedVault हे एक संपूर्ण <b>इलेक्ट्रॉनिक हेल्थ रेकॉर्ड (EHR)</b> सिस्टम आहे जे रुग्णांना त्यांचे वैद्यकीय रेकॉर्ड सुरक्षितपणे साठवणे, व्यवस्थापित करणे आणि डॉक्टरांशी शेअर करण्याची सुविधा देते. या प्लॅटफॉर्ममध्ये अपॉइंटमेंट बुकिंग, कन्सल्टेशन व्यवस्थापन, सूचना, आणि वैद्यकीय दस्तावेज साठवण समाविष्ट आहे. रुग्ण आणि डॉक्टर यांच्यातील संवाद सुधारण्यासाठी हे सिस्टम विकसित केले गेले असून सुरक्षा, वापरकर्ता-अनुकूलता आणि जलद डेटा प्रवेश यावर भर देण्यात आला आहे.",
+                "tags": ["Java","Spring","JDBC","EHR", "HealthTech"]
+              },
+              "hi": {
+                "title": "MedVault",
+                "text": "MedVault एक उन्नत <b>इलेक्ट्रॉनिक हेल्थ रिकॉर्ड (EHR)</b> सिस्टम है जो मरीजों को अपने मेडिकल रिकॉर्ड सुरक्षित रूप से सहेजने, प्रबंधित करने और डॉक्टरों के साथ साझा करने की सुविधा देता है। इस प्लेटफ़ॉर्म में अपॉइंटमेंट बुकिंग, कंसल्टेशन प्रबंधन, नोटिफिकेशन और मेडिकल दस्तावेज़ स्टोरेज शामिल हैं। सिस्टम को सुरक्षा, सरल उपयोग और तेज़ डेटा एक्सेस को ध्यान में रखते हुए तैयार किया गया है, साथ ही पूरा परीक्षण और डॉक्यूमेंटेशन भी शामिल है।",
+                "tags": ["Java","Spring","JDBC","EHR", "HealthTech"]
+              }
+            }
+          },
+          {
+            "categoryId": "apps",
+            "icon": {
+              "img": null,
+              "fa": "fa-solid fa-heart-circle-check",
+              "faColors": { "bg": "#ffffff", "fill": "#ff3366" }
+            },
+            "links": [
+              { "faIcon": "fa-brands fa-github", "href": "https://github.com/Bhumika2101/ReClaim-Addication_Quiting_App" }
+            ],
+            "media": {
+              "youtubeVideo": "",
+              "screenshots": { "aspectRatio": null, "images": [] }
+            },
+            "locales": {
+              "en": {
+                "title": "ReClaim – Addiction Quitting App",
+                "text": "ReClaim is a MERN-based <b>addiction recovery and habit–quitting platform</b> that helps users track their daily progress, access consultations, and stay motivated. It integrates real-time <b>video calls using VideoSDK</b>, automated habit resets at 12:00 AM using <b>node-schedule</b>, and email summaries for improved accountability.",
+                "tags": ["MERN", "VideoSDK", "Node-Schedule"]
+              },
+              "mr": {
+                "title": "ReClaim – व्यसनमुक्ती अ‍ॅप",
+                "text": "ReClaim हे <b>MERN स्टॅक</b> वर आधारित व्यसनमुक्ती आणि सवय बदलण्यास मदत करणारे प्लॅटफॉर्म आहे. हे वापरकर्त्यांना दररोज प्रगती ट्रॅक करण्यास, सल्लामसलत मिळवण्यास आणि प्रेरित राहण्यास मदत करते. यात VideoSDK वापरून <b>रिअल-टाइम व्हिडिओ कॉल</b>, node-schedule च्या मदतीने <b>रोज 12 वाजता स्वयंचलित हॅबिट रीसेट</b> आणि ईमेलद्वारे प्रगती अहवाल पाठवण्याची सुविधा आहे.",
+                "tags": ["MERN", "VideoSDK", "Node-Schedule"]
+              },
+              "hi": {
+                "title": "ReClaim – एडिक्शन क्विटिंग ऐप",
+                "text": "ReClaim एक <b>MERN आधारित</b> व्यसन छोड़ने और अच्छी आदत विकसित करने वाला प्लेटफ़ॉर्म है, जो उपयोगकर्ताओं को दैनिक प्रगति ट्रैक करने, परामर्श प्राप्त करने और मोटिवेटेड रहने में मदद करता है। इसमें VideoSDK के माध्यम से <b>रियल-टाइम डॉक्टर वीडियो कॉल</b>, node-schedule का उपयोग कर <b>रोजाना 12:00 AM पर ऑटो हॅबिट रीसेट</b> और ईमेल द्वारा दैनिक रिपोर्ट भेजने की सुविधा शामिल है।",
+                "tags": ["MERN","VideoSDK", "Node-Schedule"]
+              }
+            }
+          },
+
+
+          {
+          
+            "categoryId": "apps",
+            "icon": {
+              "img": null,
+              "fa": "fa-solid fa-bus",
+              "faColors": { "bg": "#ffffff", "fill": "#ff6600" }
+            },
+            "links": [
+              { "faIcon": "fa-brands fa-github", "href": "https://github.com/Bhumika2101/Online_Bus_Booking_System" }
+            ],
+            "media": {
+              "youtubeVideo": "",
+              "screenshots": { "aspectRatio": null, "images": [] }
+            },
+            "locales": {
+              "en": {
+                "title": "Online Bus Booking System",
+                "text": "Developed a web-based <b>bus ticket booking system</b> using <b>ASP.NET, C#, and CSS</b>. Features include route and schedule browsing, seat selection, and instant booking confirmation. Implemented backend logic for trip management, seat availability, reservations, cancellations, and user interactions. Designed a clean, user-friendly frontend integrated with backend operations.",
+                "tags": ["ASP.NET", "C#", "CSS", "Web App"]
+              },
+              "mr": {
+                "title": "ऑनलाइन बस बुकिंग प्रणाली",
+                "text": "<b>ASP.NET, C# आणि CSS</b> वापरून <b>बस तिकीट बुकिंग</b> करण्यासाठी वेब-आधारित प्रणाली विकसित केली. यात मार्ग व वेळापत्रक पाहणे, सीट निवड, आणि क्षणात बुकिंग पुष्टीकरण समाविष्ट आहे. प्रवास व्यवस्थापन, उपलब्धता, आरक्षण, रद्दीकरण आणि वापरकर्ता संवाद यासाठी बॅकएंड लॉजिक तयार केले. बॅकएंडशी एकत्रित केलेला स्वच्छ आणि वापरकर्ता-अनुकूल फ्रंटएंड डिझाइन केला.",
+                "tags": ["ASP.NET", "C#", "CSS", "Web App"]
+              },
+              "hi": {
+                "title": "ऑनलाइन बस बुकिंग सिस्टम",
+                "text": "<b>ASP.NET, C# और CSS</b> का उपयोग करके <b>बस टिकट बुकिंग</b> के लिए एक वेब एप्लिकेशन विकसित किया। इसमें रूट और शेड्यूल देखना, सीट चयन, और तुरंत बुकिंग कन्फर्मेशन जैसी सुविधाएँ शामिल हैं। ट्रिप प्रबंधन, सीट उपलब्धता, आरक्षण, रद्दीकरण और उपयोगकर्ता इंटरैक्शन के लिए बैकएंड लॉजिक बनाया। बैकएंड ऑपरेशन्स से जुड़ा साफ, उपयोगकर्ता-अनुकूल UI डिजाइन किया।",
+                "tags": ["ASP.NET", "C#", "CSS", "Web App"]
+              }
+            }
+          },
+
+
           {
             "categoryId": "apps",
             "icon": {

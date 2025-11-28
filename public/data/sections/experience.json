@@ -29,13 +29,45 @@
             "items": [
                 {
                     "icon": {
+                        "img": "images/pictures/infosys-logo.png",
+                        "fa": "",
+                        "faColors": { "bg": null, "fill": null }
+                    },
+                    "dates": {
+                        "start": "11/01/2025",
+                        "end": "Ongoing"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**Infosys Springboard** Internship 6.0",
+                            "info": "Infosys Limited – Infosys Springboard Internship 6.0",
+                            "text": "Enhancing technical and professional skills through the Infosys Springboard platform. Working on real-world projects using Core Java and JDBC to build scalable applications. Strengthening skills in debugging, problem-solving, code optimization, version control (Git), and basic testing methodologies.",
+                            "tags": ["Core Java", "JDBC", "Git", "Spring"]
+                        },
+                        "hi": {
+                            "title": "**इंफोसिस स्प्रिंगबोर्ड** इंटर्नशिप 6.0",
+                            "info": "इंफोसिस लिमिटेड – इंफोसिस स्प्रिंगबोर्ड इंटर्नशिप 6.0",
+                            "text": "इंफोसिस स्प्रिंगबोर्ड प्लेटफ़ॉर्म के माध्यम से तकनीकी और पेशेवर कौशल को बेहतर बनाया। कोर जावा और JDBC का उपयोग करके वास्तविक प्रोजेक्ट्स पर काम किया और स्केलेबल एप्लिकेशन विकसित किए। डिबगिंग, समस्या समाधान, कोड ऑप्टिमाइज़ेशन, संस्करण नियंत्रण (Git) और बेसिक टेस्टिंग मेथडोलॉजी में कौशल विकसित किया।",
+                            "tags": ["Core Java", "JDBC", "Git", "Spring"]
+                        },
+                        "mr": {
+                            "title": "**व्हर्च्युअल** इंटर्नशिप",
+                            "info": "इन्फोसिस लिमिटेड – इन्फोसिस स्प्रिंगबोर्ड इंटर्नशिप 6.0",
+                            "text": "इन्फोसिस स्प्रिंगबोर्ड प्लॅटफॉर्मद्वारे तांत्रिक आणि व्यावसायिक कौशल्ये अधिक मजबूत केली. कोर जावा आणि JDBC वापरून वास्तविक प्रकल्पांवर काम केले आणि स्केलेबल ॲप्लिकेशन्स विकसित केली. डीबगिंग, समस्या निराकरण, कोड ऑप्टिमायझेशन, व्हर्जन कंट्रोल (Git) आणि बेसिक टेस्टिंग मेथडॉलॉजीमध्ये कौशल्य विकसित केले.",
+                            "tags": ["Core Java", "JDBC", "Git", "Spring"]
+                        }
+                    }
+                },
+
+                {
+                    "icon": {
                         "img": "images/pictures/AICTE-logo.png",
                         "fa": "",
                         "faColors": {"bg": null, "fill": null}
                     },
                     "dates": {
                         "start": "08/21/2025",
-                        "end": "Ongoing"
+                        "end": "09/30/2025"
                     },
                     "locales": {
                         "en": {
